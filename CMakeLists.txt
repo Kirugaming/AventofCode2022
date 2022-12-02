@@ -3,4 +3,4 @@ project(AventofCode2022)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(AventofCode2022 Solutions/CalorieCounting/CalorieCounting.cpp)
+add_executable(AventofCode2022 Solutions/RockPaperScissors/RockPaperScissors.cpp)
